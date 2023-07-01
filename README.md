@@ -14,6 +14,6 @@
 
 ---
 
-This project is not affiliated with the <a href="https://www.rte.ie/">Raidió Teilifís Éireann</a> or <a href="https://www.sonos.com/">Sonos</a>.
+This project is not affiliated with the <a href="https://www.rte.ie/radio/">RTÉ Radio Player</a> or <a href="https://www.sonos.com/">Sonos</a>.
 
 All mentioned trademarks are the property of their respective owners.
