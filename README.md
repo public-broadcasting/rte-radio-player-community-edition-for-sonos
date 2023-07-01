@@ -2,7 +2,7 @@
 
 **RTÉ Radio Player  (Community Edition)** is a dedicated and thus alternative integration to existing solutions from radio station aggregators, such as TuneIn or Sonos Radio.
 
-<img src="https://raw.githubusercontent.com/public-broadcasting/rte-radio-player-community-edition-for-sonos/main/img/rte-radio-player-community-edition-community-edition-demo.gif">
+<img src="https://raw.githubusercontent.com/public-broadcasting/rte-radio-player-community-edition-for-sonos/main/img/rte-radio-player-community-edition-demo.gif">
 
 ---
 
